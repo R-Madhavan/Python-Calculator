@@ -1,6 +1,5 @@
 ---
-<div style="width:100%;height:0;padding-bottom:134%;position:relative;"><iframe src="https://giphy.com/embed/EAAKR8I15yFg0RK5as" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pajakku-tax-pajak-pajakku-EAAKR8I15yFg0RK5as">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/EAAKR8I15yFg0RK5as" width="358" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pajakku-tax-pajak-pajakku-EAAKR8I15yFg0RK5as">via GIPHY</a></p>
 # Python Calculator
 
 A simple command-line calculator built in Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
