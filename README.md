@@ -1,5 +1,7 @@
 ---
-![CalculatingNumbersGIF (2)](https://github.com/user-attachments/assets/e58e3610-faf9-450d-a987-a2d8af833c1f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e58e3610-faf9-450d-a987-a2d8af833c1f" alt="Calculating Numbers GIF">
+</p>
 
 # Python Calculator
 
